@@ -1,0 +1,146 @@
+
+
+>> account on github 
+
+>> Download git scm / git bash
+
+
+>> quiz on Saturday [ till tuesday u-1]
+
+
+
+
+
+
+
+
+sprint backlog
+
+Product backlog
+> component, version, epic
+
+Story ( sub-task)
+
+> story point
+> Do not give the original estimate 
+
+sub-task  then give the original time estimate 
+
+
+
+planning
+
+Sprint backlog
+Create Sprint option
+u have to create 3 sprints
+and then you will plan the work accordingly
+
+Drag and drop the issues from product backlog 
+to the sprint backlog of 
+sprint 1
+sprint 2  : 1 issue
+sprint 3  : 2 issue
+
+Sprint 1 : check  Story (sub-task), storypoint, version, component
+Also, check the sub-task should have original estimate time
+Task : version, component,original estimate time
+Bug:   version, component,original estimate time
+
+front - end 
+
+
+back -end  : 
+
+
+Q. u will start the sprint 1
+
+1. sprint date [start, end]
+2. description  
+
+
+>>> Active board   : in that u will notice the issues of sprint 1
+
+>>> sTATUS of issues
+
+It will be changed to progress only when the assignee is allocated
+the work
+
+
+Q. Open a story
+> change status to do======== in progress
+For that story 
+
+Open sub-task 1   change status to do======== in progress
+Time tracking : edit the number of hours spent for doing that work
+
+For that story 
+Open sub-task 2   change status to do======== in progress
+Time tracking : edit the number of hours spent for doing that work
+
+* u will notice that amount of time for remainingwork decreases
+while amount of time for timespent increases.
+
+
+
+
+
+
+
+
+
+visualization
+
+Analysis
+
+> Burndown/up chart
+
+> Sprint report
+
+sHEET  AMT OF TIME SPENT/REM W.R.T SUB-TASK
+
+> velocity chart
+
+wHEN THE SPRINT IS COMPLETED , THE OVERALL ANALYSIS OF THE 
+WORK COMMITTED AND DONE IS ANALYSED IN THE FORM OF BAR GRAPHS
+
+REPORTS
+
+
+
+
+Q. CHECK THE BURN DOWN CHART
+W.R.T ISSUE COUNT, STORY POINT
+CHANGE SETTINGS TO REM. TIME 
+nOW, STUDY, THE DAY WISE AMOUNT OF HRS REMAINING
+
+Q. AGAIN,
+Open sub-task 1   change status to do======== in progress
+Time tracking : edit the number of hours spent for doing that work
+For that story 
+Open sub-task 2   change status to do======== in progress
+Time tracking : edit the number of hours spent for doing that work
+nOW, STUDY, THE DAY WISE AMOUNT OF HRS REMAINING
+
+Q. STUDY THE REPORT AS WELL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
